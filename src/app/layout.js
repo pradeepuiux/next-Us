@@ -27,7 +27,7 @@ export default function RootLayout({ children }) {
           <a href="/">Home</a>
         </li>
         <li>
-          <a href="/about-us/">About Us</a>
+          <a href="/About">About Us</a>
         </li>
         <li>
           <div className="dropdown">
@@ -36,28 +36,28 @@ export default function RootLayout({ children }) {
               <i className="fa fa-caret-down" />
             </button>
             <div className="dropdown-content">
-              <a href="/hire-dedicated-developer/">Hire Dedicated Developer</a>
-              <a href="/website-design-development-services/">
+              <a href="/hirededicateddeveloper">Hire Dedicated Developer</a>
+              <a href="/webdevelopment">
                 Website Development
               </a>
               <a href="/software-development-services/">Software Development</a>
-              <a href="/mobile-app-development-services/">
+              <a href="/mobileapp">
                 Mobile App development
               </a>
-              <a href="/digital-marketing/">Digital Marketing</a>
+              <a href="/digitalmarketingservices">Digital Marketing</a>
             </div>
           </div>
         </li>
         <li>
-          <a href="/contact-us/">Contact Us</a>
+          <a href="/contactus">Contact Us</a>
         </li>
         <li>
-          <a href="/portfolio/">Portfolio</a>
+          <a href="/portfolio">Portfolio</a>
         </li>
         <li>
-          <a href="/blog/">Blog</a>
+          <a href="/blog">Blog</a>
         </li>
-        <a href="/contact-us/">
+        <a href="/contactus">
           <button id="header-btn">Let's Discuss</button>
         </a>
       </ul>

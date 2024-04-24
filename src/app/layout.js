@@ -160,6 +160,8 @@ export default function RootLayout({ children }) {
 </div>
 </div>
         </footer>
+        <script src="/gsap.min1e39.js"></script>
+<script src="/main.bundle1e39.js"></script>
         </body>
     </html>
   );
